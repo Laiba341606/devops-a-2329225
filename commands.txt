@@ -1,0 +1,5 @@
+mkdir SetA_2329225
+cd SetA_2329225
+mkdir site
+mkdir evidence
+code .
